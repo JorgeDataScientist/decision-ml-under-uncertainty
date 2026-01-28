@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos generados / outputs
+datasets/processed/
+outputs/
+data/output/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
